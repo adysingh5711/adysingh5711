@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-
-<img src="https://komarev.com/ghpvc/?username=adysingh5711&style=flat-square&color=blue" alt=""/>
-
 
 <h1>
   Hey there
@@ -38,9 +31,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+<!--
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aditya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/singhaditya5711)
-
+-->
 
 ---
 
@@ -149,6 +142,7 @@ Here are some of my ongoing projects:
 ---
 
 ## 💬 Contact Me
+<img src="https://komarev.com/ghpvc/?username=adysingh5711&style=flat-square&color=blue" alt=""/>
 
 If you'd like to get in touch, feel free to send me a message
 
@@ -161,4 +155,16 @@ If you'd like to get in touch, feel free to send me a message
 -->
 
 Thanks for checking out my profile!
+
+### ✍️Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+
+<div align="center">
+  
+### Show some ❤️ by starring some of my repositories!
+  
+</div>
 
