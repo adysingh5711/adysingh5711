@@ -140,7 +140,10 @@ Here are some of my ongoing projects:
 
 
 ---
+### ✍️Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&background=000000)
 
+---
 ## 💬 Contact Me
 <img src="https://komarev.com/ghpvc/?username=adysingh5711&style=flat-square&color=blue" alt=""/>
 
@@ -156,11 +159,8 @@ If you'd like to get in touch, feel free to send me a message
 
 Thanks for checking out my profile!
 
-### ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
 
 <div align="center">
   
