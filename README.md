@@ -20,16 +20,6 @@ Here are some ideas to get you started:
 </div>
 
 
-<div id="badges" align="center">
-  <a href="www.linkedin.com/in/singhaditya5711">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/singhaditya5711">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-
 <img src="https://komarev.com/ghpvc/?username=adysingh5711&style=flat-square&color=blue" alt=""/>
 
 
@@ -38,7 +28,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Aditya this side
 </h1>
 
----
 ---
 
 ### :man_technologist: About Me :
@@ -53,7 +42,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aditya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/singhaditya5711)
 
 
----
 ---
 
 ## 🚀 Skills and Expertise
@@ -104,7 +92,7 @@ Here are some of the technologies and tools I've worked with:
 [![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)](https://www.apollographql.com/)
 -->
 
-**Tools and frameworks 🛠️**
+**Tools and frameworks :hammer_and_wrench:**
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -120,14 +108,18 @@ Here are some of the technologies and tools I've worked with:
 **Blockchain ⛓️** 
 
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
-[![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
-[![Ethers.js](https://img.shields.io/badge/Ethers.js-276FD6?style=for-the-badge&logo=ethers-dot-js&logoColor=white)](https://docs.ethers.io/)
 [![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)](https://ipfs.io/)
 [![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com/)
 [![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)](https://metamask.io/)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/)
 [![NFT](https://img.shields.io/badge/NFT-0078FF?style=for-the-badge&logo=nft&logoColor=white)](https://opensea.io/)
-<!--[![Stellar](https://img.shields.io/badge/Stellar-120A8F?style=for-the-badge&logo=stellar&logoColor=white)](https://www.stellar.org/)
+
+
+
+<!--
+[![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
+[![Ethers.js](https://img.shields.io/badge/Ethers.js-276FD6?style=for-the-badge&logo=ethers-dot-js&logoColor=white)](https://docs.ethers.io/)
+[![Stellar](https://img.shields.io/badge/Stellar-120A8F?style=for-the-badge&logo=stellar&logoColor=white)](https://www.stellar.org/)
 [![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)](https://polygon.technology/)
 [![Hardhat](https://img.shields.io/badge/Hardhat-DEA584?style=for-the-badge&logo=hardhat&logoColor=white)](https://hardhat.org/)
 [![Truffle](https://img.shields.io/badge/Truffle-3C3C3D?style=for-the-badge&logo=truffle&logoColor=white)](https://www.trufflesuite.com/)
@@ -144,32 +136,29 @@ Here are some of my ongoing projects:
 - [BlockShala](https://github.com/Shubham0850/BlockShala): WEB3 learning platform. Learn | Build | Earn
 -->
 
-<!--
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
--->
-
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> -->
-
----
 ---
 
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adysingh5711&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
-![My stats](https://github-readme-stats.vercel.app/api?username=adysingh5711) <br>
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adysingh5711&show_icons=true&layout=compact&theme=vision-friendly-dark) <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adysingh5711&theme=dark&background=000000)](https://git.io/streak-stats) <br>
+<!--![My stats](https://github-readme-stats.vercel.app/api?username=adysingh5711&theme=black&background=000000) -->
+
+
+---
+
+## 💬 Contact Me
+
+If you'd like to get in touch, feel free to send me a message
+
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/singhaditya5711) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhaditya5711/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhaditya5711@gmail.com)
+<!--
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gulzari.xyz/)
+-->
+
+Thanks for checking out my profile!
 
