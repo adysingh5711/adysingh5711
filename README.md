@@ -53,6 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+<!--
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -68,11 +69,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+-->
+
 <!--<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> -->
 
 ---
 
 ### :fire: My Stats :
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adysingh5711&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
+![My stats](https://github-readme-stats.vercel.app/api?username=adysingh5711) <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adysingh5711&theme=dark&background=000000)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adysingh5711&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
